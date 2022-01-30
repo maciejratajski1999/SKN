@@ -1,125 +1,283 @@
 {
     "15-18": {
-        "7": {
+        "razem": 20,
+        "pytanie 1": {
+            "100 - 200 zł": 7,
+            "200 - 500 zł": 9,
+            "500+ zł": 1,
+            "1 - 99 zł": 2
+        },
+        "pytanie 2": {
+            "0 zł": 8,
+            "200 - 500 zł": 2,
+            "1 - 99 zł": 5,
+            "100 - 200 zł": 4
+        },
+        "pytanie 3": {
+            "100 - 200 zł": 7,
+            "200 - 500 zł": 5,
+            "1 - 99 zł": 4,
+            "0 zł": 2,
+            "powyżej 500 zł": 1
+        },
+        "pytanie 4": {
             "Komputer stacjonarny lub laptop": 12,
             "Konsole PlayStation": 5,
             "Konsole XBOX": 1,
             "Telefon": 1
         },
-        "8": {
-            "0 - 2h": 1,
-            "10 - 25h": 4,
+        "pytanie 5": {
             "2 - 5h": 2,
+            "powyżej 25h": 5,
             "5 - 10h": 7,
-            "powy\u017cej 25h": 5
+            "10 - 25h": 4,
+            "0 - 2h": 1
         },
-        "9": {
-            "CS:GO": 2,
-            "Euro truck simulator ": 1,
-            "Fortnite": 1,
-            "Genshin Impact": 1,
+        "pytanie 6": {
+            "nie wydaje pieniędzy na przedmioty": 1,
             "League of Legends": 5,
-            "Nie wydaje": 1,
-            "Tytu\u0142y FIFA": 5,
+            "Tytuły FIFA": 5,
+            "Fortnite": 1,
+            "CS:GO": 2,
             "World Of Tanks": 1,
+            "Genshin Impact": 1,
             "Zadne": 1,
-            "nie wydaje pieni\u0119dzy na przedmioty": 1
+            "Nie wydaje": 1,
+            "Euro truck simulator ": 1
+        },
+        "pytanie 7": {
+            "okazjonalnie, np. nowa skórka do ulubionej postaci": 19
+        },
+        "pytanie 8": {
+            "Inne nagrody, upominki": 2,
+            "Pieniądze (w formie wirtualnej lub fizycznej)": 17
+        },
+        "pytanie 9": {
+            "Kieszonkowe": 13,
+            "Zarobki z pracy": 5,
+            "Zasiłki, stypendia etc.": 1
+        },
+        "pytanie 10": {
+            "100 - 250 zł": 10,
+            "0 - 100 zł": 4,
+            "powyżej 500 zł": 4,
+            "250 - 500 zł": 1
         }
     },
     "19-22": {
-        "7": {
+        "razem": 86,
+        "pytanie 1": {
+            "100 - 200 zł": 21,
+            "1 - 99 zł": 26,
+            "0 zł": 5,
+            "500+ zł": 11,
+            "200 - 500 zł": 19
+        },
+        "pytanie 2": {
+            "100 - 200 zł": 16,
+            "0 zł": 32,
+            "1 - 99 zł": 23,
+            "200 - 500 zł": 6,
+            "500+ zł": 5
+        },
+        "pytanie 3": {
+            "200 - 500 zł": 22,
+            "0 zł": 16,
+            "100 - 200 zł": 25,
+            "1 - 99 zł": 15,
+            "powyżej 500 zł": 4
+        },
+        "pytanie 4": {
             "Komputer stacjonarny lub laptop": 67,
-            "Konsole Nintendo": 1,
             "Konsole PlayStation": 10,
-            "Konsole XBOX": 1,
-            "Telefon": 3
+            "Telefon": 3,
+            "Konsole Nintendo": 1,
+            "Konsole XBOX": 1
         },
-        "8": {
-            "0 - 2h": 4,
-            "10 - 25h": 31,
-            "2 - 5h": 9,
+        "pytanie 5": {
             "5 - 10h": 20,
-            "powy\u017cej 25h": 18
+            "10 - 25h": 31,
+            "powyżej 25h": 18,
+            "2 - 5h": 9,
+            "0 - 2h": 4
         },
-        "9": {
-            ".": 1,
-            "Arknights": 1,
-            "CS:GO": 20,
-            "Fortnite": 1,
-            "Game of Sultans, na telefon ": 1,
-            "Genshin Impact": 2,
+        "pytanie 6": {
             "League of Legends": 23,
-            "Margonem": 2,
-            "Na \u017cadn\u0105": 1,
-            "Nie kupuj\u0119 przedmiot\u00f3w z IS, jakbym mia\u0142a kupowa\u0107 to na FF XIV :D": 1,
-            "Nie wiem": 1,
-            "Nie wydaje ": 1,
-            "Nie wydaje pieni\u0119dzy na gry": 1,
-            "Oculus Store": 1,
+            "najwięcej wydałem na Apex Legends i Rainbow 6 Siege": 1,
+            ".": 1,
             "PayDay 2": 1,
             "Roblox": 1,
-            "Srar wars": 1,
-            "Taern ": 1,
-            "The pride of taern": 1,
-            "Tytu\u0142y FIFA": 10,
-            "Warframe": 1,
+            "Nie wydaje ": 1,
+            "Nie kupuję przedmiotów z IS, jakbym miała kupować to na FF XIV :D": 1,
+            "Arknights": 1,
+            "Genshin Impact": 2,
+            "nie wydaję na mikropłatności": 1,
+            "CS:GO": 20,
+            "Żadna": 1,
             "World Of Tanks": 2,
+            "Nie wiem": 1,
+            "Oculus Store": 1,
             "ja tylko gry kupuje": 1,
+            "Żadną ": 1,
+            "Tytuły FIFA": 10,
+            "Warframe": 1,
+            "Nie wydaje pieniędzy na gry": 1,
             "na nic": 1,
-            "najwi\u0119cej wyda\u0142em na Apex Legends i Rainbow 6 Siege": 1,
-            "nie wydaj\u0119 na mikrop\u0142atno\u015bci": 1,
-            "\u017badna": 1,
-            "\u017badn\u0105": 1,
-            "\u017badn\u0105 ": 1
+            "Fortnite": 1,
+            "Srar wars": 1,
+            "The pride of taern": 1,
+            "Margonem": 2,
+            "Na żadną": 1,
+            "Game of Sultans, na telefon ": 1,
+            "Żadną": 1,
+            "Taern ": 1
+        },
+        "pytanie 7": {
+            "okazjonalnie, np. nowa skórka do ulubionej postaci": 78,
+            "regularnie": 4
+        },
+        "pytanie 8": {
+            "Inne nagrody, upominki": 13,
+            "Pieniądze (w formie wirtualnej lub fizycznej)": 63,
+            "Wirtualny przedmiot związany z grą wiodącą turnieju": 6
+        },
+        "pytanie 9": {
+            "Zarobki z pracy": 42,
+            "Zasiłki, stypendia etc.": 12,
+            "Kieszonkowe": 28
+        },
+        "pytanie 10": {
+            "250 - 500 zł": 20,
+            "0 - 100 zł": 15,
+            "powyżej 500 zł": 24,
+            "100 - 250 zł": 23
         }
     },
     "23-26": {
-        "7": {
+        "razem": 13,
+        "pytanie 1": {
+            "200 - 500 zł": 6,
+            "500+ zł": 2,
+            "1 - 99 zł": 2,
+            "100 - 200 zł": 1,
+            "0 zł": 1
+        },
+        "pytanie 2": {
+            "1 - 99 zł": 5,
+            "500+ zł": 1,
+            "0 zł": 2,
+            "200 - 500 zł": 3,
+            "100 - 200 zł": 1
+        },
+        "pytanie 3": {
+            "100 - 200 zł": 4,
+            "200 - 500 zł": 5,
+            "1 - 99 zł": 2,
+            "0 zł": 1
+        },
+        "pytanie 4": {
             "Komputer stacjonarny lub laptop": 8,
-            "Konsole PlayStation": 2,
             "Konsole XBOX": 1,
+            "Konsole PlayStation": 2,
             "Telefon": 1
         },
-        "8": {
+        "pytanie 5": {
             "10 - 25h": 4,
-            "2 - 5h": 2,
+            "powyżej 25h": 3,
             "5 - 10h": 3,
-            "powy\u017cej 25h": 3
+            "2 - 5h": 2
         },
-        "9": {
+        "pytanie 6": {
             "CS:GO": 4,
-            "League of Legends": 3,
             "LoL/PoE/Warframe": 1,
-            "Nie wydaje na przedmioty": 1,
-            "Tytu\u0142y FIFA": 1,
+            "League of Legends": 3,
+            "apex, przepustka w tym roku": 1,
             "World Of Tanks": 1,
-            "apex, przepustka w tym roku": 1
+            "Tytuły FIFA": 1,
+            "Nie wydaje na przedmioty": 1
+        },
+        "pytanie 7": {
+            "okazjonalnie, np. nowa skórka do ulubionej postaci": 11,
+            "regularnie": 1
+        },
+        "pytanie 8": {
+            "Pieniądze (w formie wirtualnej lub fizycznej)": 7,
+            "Wirtualny przedmiot związany z grą wiodącą turnieju": 3,
+            "Inne nagrody, upominki": 2
+        },
+        "pytanie 9": {
+            "Zarobki z pracy": 11,
+            "Kieszonkowe": 1
+        },
+        "pytanie 10": {
+            "powyżej 500 zł": 7,
+            "250 - 500 zł": 4,
+            "100 - 250 zł": 1
         }
     },
-    "Powy\u017cej 26": {
-        "7": {
-            "Komputer stacjonarny lub laptop": 4,
+    "Powyżej 26": {
+        "razem": 19,
+        "pytanie 1": {
+            "200 - 500 zł": 2,
+            "500+ zł": 5,
+            "0 zł": 2,
+            "1 - 99 zł": 2,
+            "100 - 200 zł": 2
+        },
+        "pytanie 2": {
+            "200 - 500 zł": 1,
+            "500+ zł": 4,
+            "0 zł": 5,
+            "100 - 200 zł": 2,
+            "1 - 99 zł": 1
+        },
+        "pytanie 3": {
+            "0 zł": 2,
+            "powyżej 500 zł": 2,
+            "1 - 99 zł": 3,
+            "100 - 200 zł": 4,
+            "200 - 500 zł": 2
+        },
+        "pytanie 4": {
             "Konsole PlayStation": 6,
             "Konsole XBOX": 2,
+            "Komputer stacjonarny lub laptop": 4,
             "Telefon": 1
         },
-        "8": {
-            "0 - 2h": 1,
-            "10 - 25h": 3,
+        "pytanie 5": {
             "2 - 5h": 1,
+            "powyżej 25h": 3,
             "5 - 10h": 5,
-            "powy\u017cej 25h": 3
+            "0 - 2h": 1,
+            "10 - 25h": 3
         },
-        "9": {
+        "pytanie 6": {
+            "Tytuły FIFA": 3,
             "CS:GO": 2,
-            "Call of duty": 1,
-            "Coc": 1,
-            "Fortnite": 1,
             "League of Legends": 2,
-            "Tytu\u0142y FIFA": 3,
+            "nie kupuje": 1,
+            "Coc": 1,
             "Zadna": 1,
-            "Zale\u017cy, co si\u0105dzie": 1,
-            "nie kupuje": 1
+            "Zależy, co siądzie": 1,
+            "Fortnite": 1,
+            "Call of duty": 1
+        },
+        "pytanie 7": {
+            "okazjonalnie, np. nowa skórka do ulubionej postaci": 11,
+            "regularnie": 2
+        },
+        "pytanie 8": {
+            "Pieniądze (w formie wirtualnej lub fizycznej)": 10,
+            "Wirtualny przedmiot związany z grą wiodącą turnieju": 2,
+            "Inne nagrody, upominki": 1
+        },
+        "pytanie 9": {
+            "Zarobki z pracy": 13
+        },
+        "pytanie 10": {
+            "250 - 500 zł": 3,
+            "powyżej 500 zł": 8,
+            "100 - 250 zł": 2
         }
     }
 }

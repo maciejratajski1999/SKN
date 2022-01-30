@@ -32,13 +32,14 @@ def count_by_index(data, index):
 data_sorted_by_age = {}
 for age in data_by_age:
     nested_dict = {}
-    for i in range(7, 10):
+    nested_dict['razem'] = len(age)
+    for i in range(4, 14):
         if age:
             # print(f"{age[0][1]} {i}")
             # print(count_by_index(age, i))
-            nested_dict[i] = count_by_index(age, i)
+            nested_dict['pytanie ' + str(i-3)] = count_by_index(age, i)
     if age:
         data_sorted_by_age[age[0][1]] = nested_dict
 
 with open('data_sorted_by_age.json', 'w') as jsonfile:
-    json.dump(data_sorted_by_age, jsonfile, indent=4, sort_keys=True)
+    json_string = json.dump(data_sorted_by_age, jsonfile, indent=4, sort_keys=False, ensure_ascii=False)
