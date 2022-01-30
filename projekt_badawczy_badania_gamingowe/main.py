@@ -31,8 +31,8 @@ def count_by_index(data, index):
 
 data_sorted_by_age = {}
 for age in data_by_age:
+    nested_dict = {}
     for i in range(7, 10):
-        nested_dict = {}
         if age:
             # print(f"{age[0][1]} {i}")
             # print(count_by_index(age, i))

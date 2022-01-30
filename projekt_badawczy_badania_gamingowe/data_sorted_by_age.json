@@ -1,5 +1,18 @@
 {
     "15-18": {
+        "7": {
+            "Komputer stacjonarny lub laptop": 12,
+            "Konsole PlayStation": 5,
+            "Konsole XBOX": 1,
+            "Telefon": 1
+        },
+        "8": {
+            "0 - 2h": 1,
+            "10 - 25h": 4,
+            "2 - 5h": 2,
+            "5 - 10h": 7,
+            "powy\u017cej 25h": 5
+        },
         "9": {
             "CS:GO": 2,
             "Euro truck simulator ": 1,
@@ -14,6 +27,20 @@
         }
     },
     "19-22": {
+        "7": {
+            "Komputer stacjonarny lub laptop": 67,
+            "Konsole Nintendo": 1,
+            "Konsole PlayStation": 10,
+            "Konsole XBOX": 1,
+            "Telefon": 3
+        },
+        "8": {
+            "0 - 2h": 4,
+            "10 - 25h": 31,
+            "2 - 5h": 9,
+            "5 - 10h": 20,
+            "powy\u017cej 25h": 18
+        },
         "9": {
             ".": 1,
             "Arknights": 1,
@@ -47,6 +74,18 @@
         }
     },
     "23-26": {
+        "7": {
+            "Komputer stacjonarny lub laptop": 8,
+            "Konsole PlayStation": 2,
+            "Konsole XBOX": 1,
+            "Telefon": 1
+        },
+        "8": {
+            "10 - 25h": 4,
+            "2 - 5h": 2,
+            "5 - 10h": 3,
+            "powy\u017cej 25h": 3
+        },
         "9": {
             "CS:GO": 4,
             "League of Legends": 3,
@@ -58,6 +97,19 @@
         }
     },
     "Powy\u017cej 26": {
+        "7": {
+            "Komputer stacjonarny lub laptop": 4,
+            "Konsole PlayStation": 6,
+            "Konsole XBOX": 2,
+            "Telefon": 1
+        },
+        "8": {
+            "0 - 2h": 1,
+            "10 - 25h": 3,
+            "2 - 5h": 1,
+            "5 - 10h": 5,
+            "powy\u017cej 25h": 3
+        },
         "9": {
             "CS:GO": 2,
             "Call of duty": 1,
